@@ -19,10 +19,12 @@ Name and the food that you used to hate, but will now eat
 * CIS Request and Interlibrary Loan
   * located on the [detail page](https://wrlc-amu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99133790723604102&context=L&vid=01WRLC_AMU:prod&lang=en&search_scope=DN_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Game%20Theory&facet=rtype,include,books&offset=0) of individual search result
   * CIS Request borrows book from the libraries of D.C. Areas and delievers it to AU Library
-  * Interlibrary Loan delievers the book national-wide to AU Liberary, usually take 10 bussiness day in the process
+  * Interlibrary Loan delievers the book national-wide to AU Liberary, usually take 10 bussiness day to process
 * Peer Reviewed Materials
   * Look for the "Peer Review" checkbox in the "Refine your results" section of the search results
 * Advance Search
   * Throw in a number of terms to narrow down the search results
   * The **optimal number of terms is usually 3**
+  * You can add materials to the "My Favorites" Section and save it for later
+ 
  
